@@ -1,0 +1,9 @@
+# Virtual environment
+env/
+
+# Sensitive API keys
+.env
+
+# Python caches
+__pycache__/
+*.pyc
